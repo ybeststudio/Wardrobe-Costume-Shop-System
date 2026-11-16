@@ -4,6 +4,8 @@ Gardırop ve Kostüm Mağazası. Kostüm görünümlerini gardıropta saklar, k�
 
 ![Önizleme](preview.png)
 
+![preview2](preview2.png)
+
 ---
 
 ## Ne var?
