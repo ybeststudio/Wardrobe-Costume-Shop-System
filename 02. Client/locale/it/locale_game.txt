@@ -1,0 +1,2 @@
+UI_ACCEPT	Accetta
+UI_CANCEL	Interrompi

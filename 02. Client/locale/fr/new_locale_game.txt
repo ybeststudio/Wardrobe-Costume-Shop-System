@@ -1,0 +1,86 @@
+COSTUME_SHOP_BUY	Acheter
+COSTUME_SHOP_BUY_ALL	Acheter tous les sets
+COSTUME_SHOP_BUY_QUESTION	Voulez-vous acheter %s ?
+COSTUME_SHOP_BUY_SET_QUESTION	Voulez-vous acheter ces costumes ?
+COSTUME_SHOP_LIMITED_OFFER	Offre limitée
+COSTUME_SHOP_MOVE	Déplacement - |Eemoji/key_right_new|e
+COSTUME_SHOP_NOTHING_SELECTED	Choisissez d'abord un costume.
+COSTUME_SHOP_NO_BONUS	[Aucun bonus]
+COSTUME_SHOP_REMOVE	Retirer
+COSTUME_SHOP_RESET	Réinitialiser
+COSTUME_SHOP_RESULT_0	Achat réussi.
+COSTUME_SHOP_RESULT_1	Vous êtes trop loin du Tailleur de costumes.
+COSTUME_SHOP_RESULT_2	Ce costume n'est plus en vente.
+COSTUME_SHOP_RESULT_3	Vous n'avez pas assez de coupons.
+COSTUME_SHOP_RESULT_4	Vous n'avez pas assez de place dans votre inventaire.
+COSTUME_SHOP_SEARCH	Rechercher...
+COSTUME_SHOP_SHOW_SKILLS	Afficher mes skills
+COSTUME_SHOP_TEMP_AVAILABLE	Disponible du %s au %s
+COSTUME_SHOP_TEMP_DESC	Ce costume est disponible pour une durée limitée et ne reviendra jamais, ou très rarement
+COSTUME_SHOP_TEMP_PERIOD	Valable du %s au %s
+COSTUME_SHOP_TITLE	Boutique de costumes
+COSTUME_SHOP_TOTAL_PRICE	Prix de tous les costumes :
+COSTUME_SHOP_ZOOM	Zoom - |Eemoji/key_wheel|e
+INVENTORY_BUTTON_AUTO_CAPE	Cape de bravoure
+INVENTORY_BUTTON_QUEST_BOOK	Livre de quêtes
+INVENTORY_BUTTON_WARDROBE	Garde-robe
+INVENTORY_TAB_COSTUMES	Costumes
+INVENTORY_TAB_EQUIPMENT	Équipement
+INVENTORY_TAB_PETS	Familiers
+TOOLTIP_SHORTCUT_SHOP_SEARCH	Chercher dans la boutique
+TOOLTIP_SHORTCUT_SWITCHBOT	Déplacer vers Switchbot
+TOOLTIP_SHORTCUT_WIKI	Ouvrir Wikipedia
+WARDROBE_ACTIONS_TITLE	Actions
+WARDROBE_APPLY	Appliquer
+WARDROBE_BLOCKED	Cette action est momentanément indisponible.
+WARDROBE_CATALOG_COUNT	Catalogue : %d
+WARDROBE_CATALOG_UNAVAILABLE	Le catalogue n’est pas encore disponible.
+WARDROBE_CATEGORY	Catégorie %d
+WARDROBE_CLEAR_OUTFIT	Vider la tenue
+WARDROBE_CLEAR_SEARCH	Effacer la recherche
+WARDROBE_COSTUMES_TITLE	Costumes
+WARDROBE_COSTUMES_TOOLTIP	Costumes : %d
+WARDROBE_ERROR	L’action n’a pas pu aboutir. Actualisez la page.
+WARDROBE_EXP_TOOLTIP	Expérience : %d / %d
+WARDROBE_FAVORITE_SAVE_FAILED	Impossible d'enregistrer les favoris.
+WARDROBE_FULL	Pas assez de place dans l’inventaire de destination.
+WARDROBE_INVALID	Sélectionnez un costume valide dans votre inventaire.
+WARDROBE_INVALID_SELECTION	Vérifiez le nom et la sélection, puis actualisez.
+WARDROBE_INVENTORY	Inventaire
+WARDROBE_LEVEL_LABEL	Niveau
+WARDROBE_LEVEL_TOOLTIP	Niveau : %d
+WARDROBE_LINK_COPIED	Lien de tenue copié. Collez-le dans le chat pour le partager.
+WARDROBE_LINK_COPY_FAILED	Impossible de copier le lien de tenue.
+WARDROBE_LINK_OUTFIT	Partager la tenue
+WARDROBE_LOADING	Chargement…
+WARDROBE_OUTFITS	Tenues
+WARDROBE_OUTFIT_HELP_APPLY	Clique sur Appliquer pour équiper la tenue sélectionnée.
+WARDROBE_OUTFIT_HELP_SAVE	Les changements de costumes et de nom sont sauvegardés automatiquement.
+WARDROBE_OUTFIT_HELP_SELECT	Sélectionne une tenue, puis choisis ses costumes dans la garde-robe.
+WARDROBE_OUTFIT_NAME	Nom de la tenue
+WARDROBE_OUTFIT_SLOT	Tenue %d
+WARDROBE_OUTFIT_UNAPPLIED_MARK	!
+WARDROBE_OWNED_ONLY	Possédés
+WARDROBE_PROGRESS_LOADING	Chargement du niveau de collection…
+WARDROBE_RANDOM_OUTFIT	Aléatoire
+WARDROBE_REMOVE	Retirer
+WARDROBE_SEARCH	Rechercher
+WARDROBE_SHININGS	Brillances
+WARDROBE_TIMEOUT	Aucune réponse. Actualisez avant de réessayer.
+WARDROBE_TITLE	Garde-robe
+WARDROBE_TOOLTIP_TYPE	Costumes : %s
+WARDROBE_TOOLTIP_TYPE_ACCE	Étole
+WARDROBE_TOOLTIP_TYPE_BODY	Costume
+WARDROBE_TOOLTIP_TYPE_HAIR	Coiffure
+WARDROBE_TOOLTIP_TYPE_MOUNT	Monture
+WARDROBE_TOOLTIP_TYPE_PET	Familiers
+WARDROBE_TOOLTIP_TYPE_SHINING	Brillance
+WARDROBE_TOOLTIP_TYPE_WEAPON	Apparences d'armes
+WARDROBE_TYPE_ACCE	Étole
+WARDROBE_TYPE_BODY	Corps
+WARDROBE_TYPE_HAIR	Coiffure
+WARDROBE_TYPE_MOUNT	Montures
+WARDROBE_TYPE_PET	Familiers
+WARDROBE_TYPE_WEAPON	Arme
+WARDROBE_UNAPPLY	Désappliquer
+WARDROBE_UNOWNED_OUTFIT	Impossible d'appliquer cette tenue : elle contient des costumes que vous ne possédez pas.

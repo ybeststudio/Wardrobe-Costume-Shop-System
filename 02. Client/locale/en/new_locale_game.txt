@@ -1,0 +1,86 @@
+COSTUME_SHOP_BUY	Buy
+COSTUME_SHOP_BUY_ALL	Buy all sets
+COSTUME_SHOP_BUY_QUESTION	Do you want to buy %s?
+COSTUME_SHOP_BUY_SET_QUESTION	Do you want to buy these costumes?
+COSTUME_SHOP_LIMITED_OFFER	Limited-time offer
+COSTUME_SHOP_MOVE	Move - |Eemoji/key_right_new|e
+COSTUME_SHOP_NOTHING_SELECTED	Select a costume first.
+COSTUME_SHOP_NO_BONUS	[No Bonus]
+COSTUME_SHOP_REMOVE	Remove
+COSTUME_SHOP_RESET	Reset
+COSTUME_SHOP_RESULT_0	Purchase successful.
+COSTUME_SHOP_RESULT_1	You are too far from the Costume Tailor.
+COSTUME_SHOP_RESULT_2	This costume is no longer on sale.
+COSTUME_SHOP_RESULT_3	You do not have enough coupons.
+COSTUME_SHOP_RESULT_4	There is not enough space in your inventory.
+COSTUME_SHOP_SEARCH	Search...
+COSTUME_SHOP_SHOW_SKILLS	Show my skills
+COSTUME_SHOP_TEMP_AVAILABLE	Available from %s to %s
+COSTUME_SHOP_TEMP_DESC	This costume is only available for a limited time and will never return, or only very rarely
+COSTUME_SHOP_TEMP_PERIOD	Valid from %s to %s
+COSTUME_SHOP_TITLE	Costume Shop
+COSTUME_SHOP_TOTAL_PRICE	Price of all costumes:
+COSTUME_SHOP_ZOOM	Zoom - |Eemoji/key_wheel|e
+INVENTORY_BUTTON_AUTO_CAPE	Bravery Cape
+INVENTORY_BUTTON_QUEST_BOOK	Mission Book
+INVENTORY_BUTTON_WARDROBE	Wardrobe
+INVENTORY_TAB_COSTUMES	Costumes
+INVENTORY_TAB_EQUIPMENT	Equipment
+INVENTORY_TAB_PETS	Pets
+TOOLTIP_SHORTCUT_SHOP_SEARCH	Search Shop
+TOOLTIP_SHORTCUT_SWITCHBOT	Move to Switchbot
+TOOLTIP_SHORTCUT_WIKI	Open Wikipedia
+WARDROBE_ACTIONS_TITLE	Actions
+WARDROBE_APPLY	Apply
+WARDROBE_BLOCKED	This action is currently unavailable.
+WARDROBE_CATALOG_COUNT	Catalog: %d
+WARDROBE_CATALOG_UNAVAILABLE	The catalog is not available yet.
+WARDROBE_CATEGORY	Category %d
+WARDROBE_CLEAR_OUTFIT	Clear outfit
+WARDROBE_CLEAR_SEARCH	Clear search
+WARDROBE_COSTUMES_TITLE	Costumes
+WARDROBE_COSTUMES_TOOLTIP	Costumes: %d
+WARDROBE_ERROR	Action could not be completed. Please refresh.
+WARDROBE_EXP_TOOLTIP	Experience: %d / %d
+WARDROBE_FAVORITE_SAVE_FAILED	Favorites could not be saved.
+WARDROBE_FULL	Not enough space in the destination.
+WARDROBE_INVALID	Select a valid costume from your inventory.
+WARDROBE_INVALID_SELECTION	Check the name and selection, then refresh.
+WARDROBE_INVENTORY	Inventory
+WARDROBE_LEVEL_LABEL	Level
+WARDROBE_LEVEL_TOOLTIP	Level: %d
+WARDROBE_LINK_COPIED	Outfit link copied. Paste it into chat to share it.
+WARDROBE_LINK_COPY_FAILED	Could not copy the outfit link.
+WARDROBE_LINK_OUTFIT	Link Outfit
+WARDROBE_LOADING	Loading…
+WARDROBE_OUTFITS	Outfits
+WARDROBE_OUTFIT_HELP_APPLY	Click Apply to equip the selected outfit.
+WARDROBE_OUTFIT_HELP_SAVE	Costume and name changes are saved automatically.
+WARDROBE_OUTFIT_HELP_SELECT	Select an outfit, then choose its costumes in Wardrobe.
+WARDROBE_OUTFIT_NAME	Outfit Name
+WARDROBE_OUTFIT_SLOT	Outfit %d
+WARDROBE_OUTFIT_UNAPPLIED_MARK	!
+WARDROBE_OWNED_ONLY	Owned only
+WARDROBE_PROGRESS_LOADING	Loading collection level…
+WARDROBE_RANDOM_OUTFIT	Random
+WARDROBE_REMOVE	Remove
+WARDROBE_SEARCH	Search
+WARDROBE_SHININGS	Shinings
+WARDROBE_TIMEOUT	No response. Refresh before trying again.
+WARDROBE_TITLE	Wardrobe
+WARDROBE_TOOLTIP_TYPE	Costumes: %s
+WARDROBE_TOOLTIP_TYPE_ACCE	Sash
+WARDROBE_TOOLTIP_TYPE_BODY	Costume
+WARDROBE_TOOLTIP_TYPE_HAIR	Hairstyle
+WARDROBE_TOOLTIP_TYPE_MOUNT	Mount
+WARDROBE_TOOLTIP_TYPE_PET	Pets
+WARDROBE_TOOLTIP_TYPE_SHINING	Shining
+WARDROBE_TOOLTIP_TYPE_WEAPON	Weapon Skins
+WARDROBE_TYPE_ACCE	Sash
+WARDROBE_TYPE_BODY	Body
+WARDROBE_TYPE_HAIR	Hair
+WARDROBE_TYPE_MOUNT	Mounts
+WARDROBE_TYPE_PET	Pets
+WARDROBE_TYPE_WEAPON	Weapon
+WARDROBE_UNAPPLY	Unapply
+WARDROBE_UNOWNED_OUTFIT	Cannot apply this outfit: it contains costumes you do not own.

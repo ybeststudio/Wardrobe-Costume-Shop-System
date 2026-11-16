@@ -1,0 +1,86 @@
+COSTUME_SHOP_BUY	Comprar
+COSTUME_SHOP_BUY_ALL	Comprar todos los sets
+COSTUME_SHOP_BUY_QUESTION	¿Quieres comprar %s?
+COSTUME_SHOP_BUY_SET_QUESTION	¿Quieres comprar estos trajes?
+COSTUME_SHOP_LIMITED_OFFER	Oferta por tiempo limitado
+COSTUME_SHOP_MOVE	Mover - |Eemoji/key_right_new|e
+COSTUME_SHOP_NOTHING_SELECTED	Primero selecciona un traje.
+COSTUME_SHOP_NO_BONUS	[Sin Bono]
+COSTUME_SHOP_REMOVE	Quitar
+COSTUME_SHOP_RESET	Reiniciar
+COSTUME_SHOP_RESULT_0	Compra realizada con éxito.
+COSTUME_SHOP_RESULT_1	Estás demasiado lejos del Sastre de Trajes.
+COSTUME_SHOP_RESULT_2	Este traje ya no está a la venta.
+COSTUME_SHOP_RESULT_3	No tienes suficientes cupones.
+COSTUME_SHOP_RESULT_4	No tienes suficiente espacio en el inventario.
+COSTUME_SHOP_SEARCH	Buscar...
+COSTUME_SHOP_SHOW_SKILLS	Mostrar mis habilidades
+COSTUME_SHOP_TEMP_AVAILABLE	Disponible del %s al %s
+COSTUME_SHOP_TEMP_DESC	Este disfraz solo está disponible por tiempo limitado y no volverá, salvo en ocasiones muy excepcionales.
+COSTUME_SHOP_TEMP_PERIOD	Válido del %s al %s
+COSTUME_SHOP_TITLE	Tienda de Trajes
+COSTUME_SHOP_TOTAL_PRICE	Precio de todos los trajes:
+COSTUME_SHOP_ZOOM	Zoom - |Eemoji/key_wheel|e
+INVENTORY_BUTTON_AUTO_CAPE	Capa del Valor
+INVENTORY_BUTTON_QUEST_BOOK	Libro de Misiones
+INVENTORY_BUTTON_WARDROBE	Guardarropa
+INVENTORY_TAB_COSTUMES	Atuendos
+INVENTORY_TAB_EQUIPMENT	Equipo
+INVENTORY_TAB_PETS	Mascotas
+TOOLTIP_SHORTCUT_SHOP_SEARCH	Buscar Tienda
+TOOLTIP_SHORTCUT_SWITCHBOT	Mover al Switchbot
+TOOLTIP_SHORTCUT_WIKI	Abrir Wikipedia
+WARDROBE_ACTIONS_TITLE	Acciones
+WARDROBE_APPLY	Aplicar
+WARDROBE_BLOCKED	Esta acción no está disponible ahora.
+WARDROBE_CATALOG_COUNT	Catálogo: %d
+WARDROBE_CATALOG_UNAVAILABLE	El catálogo aún no está disponible.
+WARDROBE_CATEGORY	Categoría %d
+WARDROBE_CLEAR_OUTFIT	Vaciar atuendo
+WARDROBE_CLEAR_SEARCH	Borrar búsqueda
+WARDROBE_COSTUMES_TITLE	Disfraces
+WARDROBE_COSTUMES_TOOLTIP	Trajes: %d
+WARDROBE_ERROR	No se pudo completar la acción. Actualiza la página.
+WARDROBE_EXP_TOOLTIP	Experiencia: %d / %d
+WARDROBE_FAVORITE_SAVE_FAILED	No se pudieron guardar los favoritos.
+WARDROBE_FULL	No hay suficiente espacio en el destino.
+WARDROBE_INVALID	Selecciona un traje válido de tu inventario.
+WARDROBE_INVALID_SELECTION	Revisa el nombre y la selección y actualiza.
+WARDROBE_INVENTORY	Inventario
+WARDROBE_LEVEL_LABEL	Nivel
+WARDROBE_LEVEL_TOOLTIP	Nivel: %d
+WARDROBE_LINK_COPIED	Enlace del atuendo copiado. Pégalo en el chat para compartirlo.
+WARDROBE_LINK_COPY_FAILED	No se pudo copiar el enlace del atuendo.
+WARDROBE_LINK_OUTFIT	Compartir atuendo
+WARDROBE_LOADING	Cargando…
+WARDROBE_OUTFITS	Conjuntos
+WARDROBE_OUTFIT_HELP_APPLY	Pulsa Aplicar para equipar el conjunto seleccionado.
+WARDROBE_OUTFIT_HELP_SAVE	Los cambios de disfraces y nombre se guardan automáticamente.
+WARDROBE_OUTFIT_HELP_SELECT	Selecciona un conjunto y elige sus disfraces en el Armario.
+WARDROBE_OUTFIT_NAME	Nombre del atuendo
+WARDROBE_OUTFIT_SLOT	Conjunto %d
+WARDROBE_OUTFIT_UNAPPLIED_MARK	!
+WARDROBE_OWNED_ONLY	Solo propios
+WARDROBE_PROGRESS_LOADING	Cargando el nivel de colección…
+WARDROBE_RANDOM_OUTFIT	Aleatorio
+WARDROBE_REMOVE	Quitar
+WARDROBE_SEARCH	Buscar
+WARDROBE_SHININGS	Brillos
+WARDROBE_TIMEOUT	Sin respuesta. Actualiza antes de volver a intentarlo.
+WARDROBE_TITLE	Guardarropa
+WARDROBE_TOOLTIP_TYPE	Trajes: %s
+WARDROBE_TOOLTIP_TYPE_ACCE	Banda
+WARDROBE_TOOLTIP_TYPE_BODY	Atuendo
+WARDROBE_TOOLTIP_TYPE_HAIR	Peinado
+WARDROBE_TOOLTIP_TYPE_MOUNT	Montura
+WARDROBE_TOOLTIP_TYPE_PET	Mascotas
+WARDROBE_TOOLTIP_TYPE_SHINING	Brillo
+WARDROBE_TOOLTIP_TYPE_WEAPON	Aspectos para armas
+WARDROBE_TYPE_ACCE	Banda
+WARDROBE_TYPE_BODY	Cuerpo
+WARDROBE_TYPE_HAIR	Peinado
+WARDROBE_TYPE_MOUNT	Monturas
+WARDROBE_TYPE_PET	Mascotas
+WARDROBE_TYPE_WEAPON	Arma
+WARDROBE_UNAPPLY	Desaplicar
+WARDROBE_UNOWNED_OUTFIT	No puedes aplicar este conjunto: contiene disfraces que no posees.

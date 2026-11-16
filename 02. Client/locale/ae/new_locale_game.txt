@@ -1,0 +1,86 @@
+COSTUME_SHOP_BUY	ิัวม
+COSTUME_SHOP_BUY_ALL	ิัวม ฬใํฺ วแใฬใๆฺวส
+COSTUME_SHOP_BUY_QUESTION	ๅแ สัํฯ ิัวม %sฟ
+COSTUME_SHOP_BUY_SET_QUESTION	ๅแ สัํฯ ิัวม ๅะๅ วแราํวมฟ
+COSTUME_SHOP_LIMITED_OFFER	ฺัึ แÝสัษ ใอฯๆฯษ
+COSTUME_SHOP_MOVE	สอัํ฿ - |Eemoji/key_right_new|e
+COSTUME_SHOP_NOTHING_SELECTED	วฮสั าํว๐ รๆแว๐.
+COSTUME_SHOP_NO_BONUS	[ศฯๆไ ใ฿วÝรษ]
+COSTUME_SHOP_REMOVE	ลาวแษ
+COSTUME_SHOP_RESET	ลฺวฯษ ึศุ
+COSTUME_SHOP_RESULT_0	สใส ฺใแํษ วแิัวม ศไฬวอ.
+COSTUME_SHOP_RESULT_1	รไส ศฺํฯ ฬฯว๐ ฺไ ฮํวุ วแราํวม.
+COSTUME_SHOP_RESULT_2	ๅะว วแาํ แใ ํฺฯ ใฺัๆึว๐ แแศํฺ.
+COSTUME_SHOP_RESULT_3	แํำ แฯํ฿ Þำวฦใ ฿วÝํษ.
+COSTUME_SHOP_RESULT_4	แว สๆฬฯ ใำวอษ ฿วÝํษ Ýํ อÞํศส฿.
+COSTUME_SHOP_SEARCH	ศอห...
+COSTUME_SHOP_SHOW_SKILLS	ลูๅวั ใๅวัวสํ
+COSTUME_SHOP_TEMP_AVAILABLE	ใสวอ ใไ %s ลแ์ %s
+COSTUME_SHOP_TEMP_DESC	ๅะว วแาํ ใสวอ แÝสัษ ใอฯๆฯษ ÝÞุ ๆแไ ํฺๆฯ รศฯว๐ (รๆ ไวฯัว๐ ฬฯว๐).
+COSTUME_SHOP_TEMP_PERIOD	ใสวอ ศํไ %s ๆ %s
+COSTUME_SHOP_TITLE	ใสฬั วแราํวม
+COSTUME_SHOP_TOTAL_PRICE	ำฺั ฬใํฺ วแราํวม:
+COSTUME_SHOP_ZOOM	ส฿ศํั - |Eemoji/key_wheel|e
+INVENTORY_BUTTON_AUTO_CAPE	ัฯวม วแิฬวฺษ
+INVENTORY_BUTTON_QUEST_BOOK	฿สวศ วแใๅวใ
+INVENTORY_BUTTON_WARDROBE	ฮาวไษ วแใแวศำ
+INVENTORY_TAB_COSTUMES	วแราํวม
+INVENTORY_TAB_EQUIPMENT	วแฺสวฯ
+INVENTORY_TAB_PETS	วแอํๆวไวส วแรแํÝษ
+TOOLTIP_SHORTCUT_SHOP_SEARCH	ศอห วแใสฬั
+TOOLTIP_SHORTCUT_SWITCHBOT	ไÞแ ลแ์ Switchbot
+TOOLTIP_SHORTCUT_WIKI	Ýสอ วแๆํ฿ํ
+WARDROBE_ACTIONS_TITLE	วแลฬัวมวส
+WARDROBE_APPLY	สุศํÞ
+WARDROBE_BLOCKED	ๅะว วแลฬัวม Ûํั ใสวอ อวแํว๐.
+WARDROBE_CATALOG_COUNT	วแ฿สวแๆฬ: %d
+WARDROBE_CATALOG_UNAVAILABLE	วแ฿สวแๆฬ Ûํั ใสวอ ศฺฯ.
+WARDROBE_CATEGORY	Ýฦษ %d
+WARDROBE_CLEAR_OUTFIT	ลÝัวÛ วแาํ
+WARDROBE_CLEAR_SEARCH	ใำอ วแศอห
+WARDROBE_COSTUMES_TITLE	วแราํวม
+WARDROBE_COSTUMES_TOOLTIP	วแราํวม: %d
+WARDROBE_ERROR	สฺะั ล฿ใวแ วแลฬัวม. อฯ๘ห วแีÝอษ.
+WARDROBE_EXP_TOOLTIP	วแฮศัษ: %d / %d
+WARDROBE_FAVORITE_SAVE_FAILED	สฺะั อÝู วแใÝึแษ.
+WARDROBE_FULL	แว สๆฬฯ ใำวอษ ฿วÝํษ Ýํ วแๆฬๅษ.
+WARDROBE_INVALID	วฮสั าํว๐ ีวแอว๐ ใไ ใฮาๆไ฿.
+WARDROBE_INVALID_SELECTION	สอÞÞ ใไ วแวำใ ๆวแวฮสํวัก หใ อฯ๘ห วแีÝอษ.
+WARDROBE_INVENTORY	วแใฮาๆไ
+WARDROBE_LEVEL_LABEL	วแใำสๆ์
+WARDROBE_LEVEL_TOOLTIP	วแใำสๆ์: %d
+WARDROBE_LINK_COPIED	สใ ไำฮ ัวศุ วแาํ. วแีÞๅ Ýํ วแฯัฯิษ แใิวั฿สๅ.
+WARDROBE_LINK_COPY_FAILED	สฺะั ไำฮ ัวศุ วแาํ.
+WARDROBE_LINK_OUTFIT	ใิวั฿ษ วแาํ
+WARDROBE_LOADING	ฬวั๒ วแสอใํแ…
+WARDROBE_OUTFITS	วแรุÞใ
+WARDROBE_OUTFIT_HELP_APPLY	วึÛุ ฺแ์ สุศํÞ แวัสฯวม วแุÞใ วแใอฯฯ.
+WARDROBE_OUTFIT_HELP_SAVE	ส๕อÝู สÛํํัวส วแราํวม ๆวแวำใ สแÞวฦํ๐ว.
+WARDROBE_OUTFIT_HELP_SELECT	วฮสั ุÞใ๐วก หใ วฮสั ราํวมๅ ใไ ฮาวไษ วแใแวศำ.
+WARDROBE_OUTFIT_NAME	วำใ วแาํ
+WARDROBE_OUTFIT_SLOT	ุÞใ %d
+WARDROBE_OUTFIT_UNAPPLIED_MARK	!
+WARDROBE_OWNED_ONLY	วแใใแๆ฿ษ ÝÞุ
+WARDROBE_PROGRESS_LOADING	ฬวั๒ สอใํแ ใำสๆ์ วแใฬใๆฺษ…
+WARDROBE_RANDOM_OUTFIT	ฺิๆวฦํ
+WARDROBE_REMOVE	ลาวแษ
+WARDROBE_SEARCH	ศอห
+WARDROBE_SHININGS	สๆๅฬวส
+WARDROBE_TIMEOUT	แใ ํีแ ัฯ. อฯ๘ห วแีÝอษ Þศแ วแใอวๆแษ ใฬฯฯว๐.
+WARDROBE_TITLE	ฮาวไษ วแใแวศำ
+WARDROBE_TOOLTIP_TYPE	วแราํวม: %s
+WARDROBE_TOOLTIP_TYPE_ACCE	วแๆิวอ
+WARDROBE_TOOLTIP_TYPE_BODY	วแาํ
+WARDROBE_TOOLTIP_TYPE_HAIR	สีÝํÝษ วแิฺั
+WARDROBE_TOOLTIP_TYPE_MOUNT	วแใุํษ
+WARDROBE_TOOLTIP_TYPE_PET	วแอํๆวไวส วแรแํÝษ
+WARDROBE_TOOLTIP_TYPE_SHINING	วแแใฺวไ
+WARDROBE_TOOLTIP_TYPE_WEAPON	ใูวๅั วแรำแอษ
+WARDROBE_TYPE_ACCE	วแๆิวอ
+WARDROBE_TYPE_BODY	วแฬำใ
+WARDROBE_TYPE_HAIR	สำัํอษ วแิฺั
+WARDROBE_TYPE_MOUNT	วแใุวํว
+WARDROBE_TYPE_PET	วแอํๆวไวส วแรแํÝษ
+WARDROBE_TYPE_WEAPON	วแำแวอ
+WARDROBE_UNAPPLY	ลแÛวม วแสุศํÞ
+WARDROBE_UNOWNED_OUTFIT	แว ํใ฿ไ สุศํÞ ๅะว วแาํ: ํอสๆํ ฺแ์ ราํวม แว สใแ฿ๅว.

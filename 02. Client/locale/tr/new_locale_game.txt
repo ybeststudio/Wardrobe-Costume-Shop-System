@@ -1,0 +1,86 @@
+COSTUME_SHOP_BUY	Satýn al
+COSTUME_SHOP_BUY_ALL	Tüm setleri satýn al
+COSTUME_SHOP_BUY_QUESTION	%s satýn almak istiyor musun?
+COSTUME_SHOP_BUY_SET_QUESTION	Bu kostümleri satýn almak istiyor musun?
+COSTUME_SHOP_LIMITED_OFFER	Sýnýrlý süreli teklif
+COSTUME_SHOP_MOVE	Taþý - |Eemoji/key_right_new|e
+COSTUME_SHOP_NOTHING_SELECTED	Önce bir kostüm seç.
+COSTUME_SHOP_NO_BONUS	[Bonus Yok]
+COSTUME_SHOP_REMOVE	Kaldýr
+COSTUME_SHOP_RESET	Sýfýrla
+COSTUME_SHOP_RESULT_0	Satýn alma baþarýlý.
+COSTUME_SHOP_RESULT_1	Kostüm Terzisi'ne çok uzaksýn.
+COSTUME_SHOP_RESULT_2	Bu kostüm artýk satýþta deðil.
+COSTUME_SHOP_RESULT_3	Yeterli kuponun yok.
+COSTUME_SHOP_RESULT_4	Envanterinde yeterli yer yok.
+COSTUME_SHOP_SEARCH	Ara...
+COSTUME_SHOP_SHOW_SKILLS	Becerilerimi göster
+COSTUME_SHOP_TEMP_AVAILABLE	Available from %s to %s
+COSTUME_SHOP_TEMP_DESC	Bu kostüm sadece sýnýrlý bir süre için mevcuttur ve asla (veya çok nadiren) geri dönecektir.
+COSTUME_SHOP_TEMP_PERIOD	%s - %s tarihleri arasýnda geçerli
+COSTUME_SHOP_TITLE	Kostüm Maðazasý
+COSTUME_SHOP_TOTAL_PRICE	Tüm kostümlerin fiyatý:
+COSTUME_SHOP_ZOOM	Yakýnlaþtýr - |Eemoji/key_wheel|e
+INVENTORY_BUTTON_AUTO_CAPE	Cesaret Pelerini
+INVENTORY_BUTTON_QUEST_BOOK	Görev Kitabý
+INVENTORY_BUTTON_WARDROBE	Gardýrop
+INVENTORY_TAB_COSTUMES	Kostümler
+INVENTORY_TAB_EQUIPMENT	Ekipman
+INVENTORY_TAB_PETS	Evcil Hayvanlar
+TOOLTIP_SHORTCUT_SHOP_SEARCH	Maðaza Ara
+TOOLTIP_SHORTCUT_SWITCHBOT	Switchbot'a taþý
+TOOLTIP_SHORTCUT_WIKI	Wikipedia'yý aç
+WARDROBE_ACTIONS_TITLE	Ýþlemler
+WARDROBE_APPLY	Uygula
+WARDROBE_BLOCKED	Bu iþlem þu anda kullanýlamýyor.
+WARDROBE_CATALOG_COUNT	Katalog: %d
+WARDROBE_CATALOG_UNAVAILABLE	Katalog henüz kullanýlamýyor.
+WARDROBE_CATEGORY	Kategori %d
+WARDROBE_CLEAR_OUTFIT	Kýyafeti temizle
+WARDROBE_CLEAR_SEARCH	Aramayý temizle
+WARDROBE_COSTUMES_TITLE	Kostümler
+WARDROBE_COSTUMES_TOOLTIP	Kostümler: %d
+WARDROBE_ERROR	Ýþlem tamamlanamadý. Lütfen yenile.
+WARDROBE_EXP_TOOLTIP	Deneyim: %d / %d
+WARDROBE_FAVORITE_SAVE_FAILED	Favoriler kaydedilemedi.
+WARDROBE_FULL	Hedef envanterde yeterli yer yok.
+WARDROBE_INVALID	Envanterinden geçerli bir kostüm seç.
+WARDROBE_INVALID_SELECTION	Adý ve seçimi kontrol et, sonra yenile.
+WARDROBE_INVENTORY	Envanter
+WARDROBE_LEVEL_LABEL	Seviye
+WARDROBE_LEVEL_TOOLTIP	Seviye: %d
+WARDROBE_LINK_COPIED	Kýyafet baðlantýsý kopyalandý. Paylaþmak için sohbete yapýþtýr.
+WARDROBE_LINK_COPY_FAILED	Kýyafet baðlantýsý kopyalanamadý.
+WARDROBE_LINK_OUTFIT	Kýyafeti paylaþ
+WARDROBE_LOADING	Yükleniyor…
+WARDROBE_OUTFITS	Kombinler
+WARDROBE_OUTFIT_HELP_APPLY	Seçili kýyafeti giymek için Uygula düðmesine týkla.
+WARDROBE_OUTFIT_HELP_SAVE	Kostüm ve ad deðiþiklikleri otomatik olarak kaydedilir.
+WARDROBE_OUTFIT_HELP_SELECT	Bir kýyafet seç, ardýndan Gardýroptan kostümlerini belirle.
+WARDROBE_OUTFIT_NAME	Kýyafet Adý
+WARDROBE_OUTFIT_SLOT	Kombin %d
+WARDROBE_OUTFIT_UNAPPLIED_MARK	!
+WARDROBE_OWNED_ONLY	Sahip olduklarým
+WARDROBE_PROGRESS_LOADING	Koleksiyon seviyesi yükleniyor…
+WARDROBE_RANDOM_OUTFIT	Rastgele
+WARDROBE_REMOVE	Kaldýr
+WARDROBE_SEARCH	Ara
+WARDROBE_SHININGS	Parýltýlar
+WARDROBE_TIMEOUT	Yanýt yok. Tekrar denemeden önce yenile.
+WARDROBE_TITLE	Gardýrop
+WARDROBE_TOOLTIP_TYPE	Kostümler: %s
+WARDROBE_TOOLTIP_TYPE_ACCE	Kuþak
+WARDROBE_TOOLTIP_TYPE_BODY	Kostüm
+WARDROBE_TOOLTIP_TYPE_HAIR	Saç Stili
+WARDROBE_TOOLTIP_TYPE_MOUNT	Binek
+WARDROBE_TOOLTIP_TYPE_PET	Evcil Hayvanlar
+WARDROBE_TOOLTIP_TYPE_SHINING	Parýltý
+WARDROBE_TOOLTIP_TYPE_WEAPON	Silah Görünümleri
+WARDROBE_TYPE_ACCE	Kuþak
+WARDROBE_TYPE_BODY	Vücut
+WARDROBE_TYPE_HAIR	Saç
+WARDROBE_TYPE_MOUNT	Binekler
+WARDROBE_TYPE_PET	Petler
+WARDROBE_TYPE_WEAPON	Silah
+WARDROBE_UNAPPLY	Çýkar
+WARDROBE_UNOWNED_OUTFIT	Bu kombin uygulanamaz: sahip olmadýðýn kostümler içeriyor.

@@ -1,0 +1,2 @@
+UI_ACCEPT	Accepter
+UI_CANCEL	Annuler

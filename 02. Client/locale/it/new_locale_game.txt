@@ -1,0 +1,86 @@
+COSTUME_SHOP_BUY	Acquistare
+COSTUME_SHOP_BUY_ALL	Acquista tutti i set
+COSTUME_SHOP_BUY_QUESTION	Vuoi acquistare %s?
+COSTUME_SHOP_BUY_SET_QUESTION	Vuoi acquistare questi costumi?
+COSTUME_SHOP_LIMITED_OFFER	Offerta a tempo limitato
+COSTUME_SHOP_MOVE	Sposta - |Eemoji/key_right_new|e
+COSTUME_SHOP_NOTHING_SELECTED	Seleziona prima un costume.
+COSTUME_SHOP_NO_BONUS	[Nessun bonus]
+COSTUME_SHOP_REMOVE	Rimuovere
+COSTUME_SHOP_RESET	Azzera
+COSTUME_SHOP_RESULT_0	Acquisto riuscito.
+COSTUME_SHOP_RESULT_1	Sei troppo lontano dal Sarto dei Costumi.
+COSTUME_SHOP_RESULT_2	Questo costume non è più in vendita.
+COSTUME_SHOP_RESULT_3	Non hai abbastanza buoni.
+COSTUME_SHOP_RESULT_4	Non hai abbastanza spazio nell'inventario.
+COSTUME_SHOP_SEARCH	Cerca...
+COSTUME_SHOP_SHOW_SKILLS	Mostra le mie abilità
+COSTUME_SHOP_TEMP_AVAILABLE	Disponibile dal %s al %s
+COSTUME_SHOP_TEMP_DESC	Questo costume è disponibile solo per un tempo limitato e non tornerà mai, o solo molto raramente.
+COSTUME_SHOP_TEMP_PERIOD	Valido dal %s al %s
+COSTUME_SHOP_TITLE	Negozio di costumi
+COSTUME_SHOP_TOTAL_PRICE	Prezzo di tutti i costumi:
+COSTUME_SHOP_ZOOM	Zoom - |Eemoji/key_wheel|e
+INVENTORY_BUTTON_AUTO_CAPE	Mantello del Coraggio
+INVENTORY_BUTTON_QUEST_BOOK	Libro delle Missioni
+INVENTORY_BUTTON_WARDROBE	Guardaroba
+INVENTORY_TAB_COSTUMES	Costumi
+INVENTORY_TAB_EQUIPMENT	Equipaggiamento
+INVENTORY_TAB_PETS	Pet
+TOOLTIP_SHORTCUT_SHOP_SEARCH	Cerca negozio
+TOOLTIP_SHORTCUT_SWITCHBOT	Passa a Switchbot
+TOOLTIP_SHORTCUT_WIKI	ApriWikipedia
+WARDROBE_ACTIONS_TITLE	Azioni
+WARDROBE_APPLY	Applica
+WARDROBE_BLOCKED	Questa azione non è disponibile al momento.
+WARDROBE_CATALOG_COUNT	Catalogo: %d
+WARDROBE_CATALOG_UNAVAILABLE	Il catalogo non è ancora disponibile.
+WARDROBE_CATEGORY	Categoria %d
+WARDROBE_CLEAR_OUTFIT	Svuota completo
+WARDROBE_CLEAR_SEARCH	Cancella ricerca
+WARDROBE_COSTUMES_TITLE	Costumi
+WARDROBE_COSTUMES_TOOLTIP	Costumi: %d
+WARDROBE_ERROR	Impossibile completare l’azione. Aggiorna la pagina.
+WARDROBE_EXP_TOOLTIP	Esperienza: %d / %d
+WARDROBE_FAVORITE_SAVE_FAILED	Impossibile salvare i preferiti.
+WARDROBE_FULL	Spazio insufficiente nella destinazione.
+WARDROBE_INVALID	Seleziona un costume valido dal tuo inventario.
+WARDROBE_INVALID_SELECTION	Controlla nome e selezione, poi aggiorna.
+WARDROBE_INVENTORY	Inventario
+WARDROBE_LEVEL_LABEL	Livello
+WARDROBE_LEVEL_TOOLTIP	Livello: %d
+WARDROBE_LINK_COPIED	Link del completo copiato. Incollalo in chat per condividerlo.
+WARDROBE_LINK_COPY_FAILED	Impossibile copiare il link del completo.
+WARDROBE_LINK_OUTFIT	Condividi completo
+WARDROBE_LOADING	Caricamento…
+WARDROBE_OUTFITS	Completi
+WARDROBE_OUTFIT_HELP_APPLY	Premi Applica per indossare il completo selezionato.
+WARDROBE_OUTFIT_HELP_SAVE	Le modifiche ai costumi e al nome vengono salvate automaticamente.
+WARDROBE_OUTFIT_HELP_SELECT	Seleziona un completo, poi scegli i suoi costumi nel Guardaroba.
+WARDROBE_OUTFIT_NAME	Nome del completo
+WARDROBE_OUTFIT_SLOT	Completo %d
+WARDROBE_OUTFIT_UNAPPLIED_MARK	!
+WARDROBE_OWNED_ONLY	Solo posseduti
+WARDROBE_PROGRESS_LOADING	Caricamento del livello collezione…
+WARDROBE_RANDOM_OUTFIT	Casuale
+WARDROBE_REMOVE	Rimuovere
+WARDROBE_SEARCH	Cerca
+WARDROBE_SHININGS	Bagliori
+WARDROBE_TIMEOUT	Nessuna risposta. Aggiorna prima di riprovare.
+WARDROBE_TITLE	Guardaroba
+WARDROBE_TOOLTIP_TYPE	Costumi: %s
+WARDROBE_TOOLTIP_TYPE_ACCE	Stola
+WARDROBE_TOOLTIP_TYPE_BODY	Costume
+WARDROBE_TOOLTIP_TYPE_HAIR	Pettinatura
+WARDROBE_TOOLTIP_TYPE_MOUNT	Cavalcatura
+WARDROBE_TOOLTIP_TYPE_PET	Pet
+WARDROBE_TOOLTIP_TYPE_SHINING	Splendente
+WARDROBE_TOOLTIP_TYPE_WEAPON	Skin per arma
+WARDROBE_TYPE_ACCE	Stola
+WARDROBE_TYPE_BODY	Corpo
+WARDROBE_TYPE_HAIR	Acconciatura
+WARDROBE_TYPE_MOUNT	Monti
+WARDROBE_TYPE_PET	Animali domestici
+WARDROBE_TYPE_WEAPON	Armi
+WARDROBE_UNAPPLY	Rimuovi
+WARDROBE_UNOWNED_OUTFIT	Impossibile applicare questo completo: contiene costumi che non possiedi.

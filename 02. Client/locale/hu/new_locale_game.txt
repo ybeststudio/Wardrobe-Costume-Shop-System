@@ -1,0 +1,86 @@
+COSTUME_SHOP_BUY	Vétel
+COSTUME_SHOP_BUY_ALL	Minden készlet vásárlása
+COSTUME_SHOP_BUY_QUESTION	Megveszed ezt: %s?
+COSTUME_SHOP_BUY_SET_QUESTION	Megveszed ezeket a jelmezeket?
+COSTUME_SHOP_LIMITED_OFFER	Idõkorlátos ajánlat
+COSTUME_SHOP_MOVE	Áthelyezés - |Eemoji/key_right_new|e
+COSTUME_SHOP_NOTHING_SELECTED	Elõbb válassz egy jelmezt.
+COSTUME_SHOP_NO_BONUS	[Nincs bónusz]
+COSTUME_SHOP_REMOVE	Távolítsa el
+COSTUME_SHOP_RESET	Visszaállítás
+COSTUME_SHOP_RESULT_0	A vásárlás sikeres.
+COSTUME_SHOP_RESULT_1	Túl messze vagy a Jelmezszabótól.
+COSTUME_SHOP_RESULT_2	Ez a jelmez már nincs eladásra.
+COSTUME_SHOP_RESULT_3	Nincs elég kuponod.
+COSTUME_SHOP_RESULT_4	Nincs elég hely a készletedben.
+COSTUME_SHOP_SEARCH	Search...
+COSTUME_SHOP_SHOW_SKILLS	Képességeim mutatása
+COSTUME_SHOP_TEMP_AVAILABLE	Elérhetõ: %s - %s
+COSTUME_SHOP_TEMP_DESC	Ez a jelmez csak korlátozott ideig érhetõ el, és soha (vagy nagyon ritkán) tér vissza.
+COSTUME_SHOP_TEMP_PERIOD	Érvényes: %s - %s
+COSTUME_SHOP_TITLE	Jelmezbolt
+COSTUME_SHOP_TOTAL_PRICE	Az összes jelmez ára:
+COSTUME_SHOP_ZOOM	Nagyítás - |Eemoji/key_wheel|e
+INVENTORY_BUTTON_AUTO_CAPE	Bátorság köpeny
+INVENTORY_BUTTON_QUEST_BOOK	Küldetéskönyv
+INVENTORY_BUTTON_WARDROBE	Ruhatár
+INVENTORY_TAB_COSTUMES	Öltözékek
+INVENTORY_TAB_EQUIPMENT	Felszerelés
+INVENTORY_TAB_PETS	Házikedvencek
+TOOLTIP_SHORTCUT_SHOP_SEARCH	Keresés az üzletben
+TOOLTIP_SHORTCUT_SWITCHBOT	Lépjen a Switchbotra
+TOOLTIP_SHORTCUT_WIKI	Nyissa meg a Wikipédiát
+WARDROBE_ACTIONS_TITLE	Mûveletek
+WARDROBE_APPLY	Alkalmaz
+WARDROBE_BLOCKED	Ez a mûvelet most nem érhetõ el.
+WARDROBE_CATALOG_COUNT	Katalógus: %d
+WARDROBE_CATALOG_UNAVAILABLE	A katalógus még nem érhetõ el.
+WARDROBE_CATEGORY	Kategória %d
+WARDROBE_CLEAR_OUTFIT	Öltözék kiürítése
+WARDROBE_CLEAR_SEARCH	Keresés törlése
+WARDROBE_COSTUMES_TITLE	Kosztümök
+WARDROBE_COSTUMES_TOOLTIP	Jelmezek: %d
+WARDROBE_ERROR	A mûvelet nem sikerült. Frissítsd az oldalt.
+WARDROBE_EXP_TOOLTIP	Tapasztalat: %d / %d
+WARDROBE_FAVORITE_SAVE_FAILED	A kedvencek mentése sikertelen.
+WARDROBE_FULL	Nincs elég hely a célleltárban.
+WARDROBE_INVALID	Válassz egy megfelelõ jelmezt a leltáradból.
+WARDROBE_INVALID_SELECTION	Ellenõrizd a nevet és a kijelölést, majd frissíts.
+WARDROBE_INVENTORY	Leltár
+WARDROBE_LEVEL_LABEL	Szint
+WARDROBE_LEVEL_TOOLTIP	Szint: %d
+WARDROBE_LINK_COPIED	Az öltözék hivatkozása másolva. A megosztáshoz illeszd be a csevegésbe.
+WARDROBE_LINK_COPY_FAILED	Nem sikerült másolni az öltözék hivatkozását.
+WARDROBE_LINK_OUTFIT	Öltözék megosztása
+WARDROBE_LOADING	Betöltés…
+WARDROBE_OUTFITS	Öltözékek
+WARDROBE_OUTFIT_HELP_APPLY	A kiválasztott öltözet felvételéhez kattints az Alkalmaz gombra.
+WARDROBE_OUTFIT_HELP_SAVE	A kosztümök és a név módosításai automatikusan mentõdnek.
+WARDROBE_OUTFIT_HELP_SELECT	Válassz öltözetet, majd válaszd ki a kosztümjeit a ruhatárban.
+WARDROBE_OUTFIT_NAME	Öltözet neve
+WARDROBE_OUTFIT_SLOT	Öltözék %d
+WARDROBE_OUTFIT_UNAPPLIED_MARK	!
+WARDROBE_OWNED_ONLY	Csak saját
+WARDROBE_PROGRESS_LOADING	Gyûjteményszint betöltése…
+WARDROBE_RANDOM_OUTFIT	Véletlenszerû
+WARDROBE_REMOVE	Távolítsa el
+WARDROBE_SEARCH	Keresés
+WARDROBE_SHININGS	Ragyogások
+WARDROBE_TIMEOUT	Nincs válasz. Új próbálkozás elõtt frissíts.
+WARDROBE_TITLE	Ruhatár
+WARDROBE_TOOLTIP_TYPE	Jelmezek: %s
+WARDROBE_TOOLTIP_TYPE_ACCE	Vállszalag
+WARDROBE_TOOLTIP_TYPE_BODY	Öltözék
+WARDROBE_TOOLTIP_TYPE_HAIR	Frizura
+WARDROBE_TOOLTIP_TYPE_MOUNT	Hátas
+WARDROBE_TOOLTIP_TYPE_PET	Házikedvencek
+WARDROBE_TOOLTIP_TYPE_SHINING	Csillogó
+WARDROBE_TOOLTIP_TYPE_WEAPON	Fegyver-kinézetek
+WARDROBE_TYPE_ACCE	Vállszalag
+WARDROBE_TYPE_BODY	Test
+WARDROBE_TYPE_HAIR	Frizura
+WARDROBE_TYPE_MOUNT	Tartók
+WARDROBE_TYPE_PET	Háziállatok
+WARDROBE_TYPE_WEAPON	Fegyver
+WARDROBE_UNAPPLY	Levétel
+WARDROBE_UNOWNED_OUTFIT	Ez az összeállítás nem alkalmazható: olyan jelmezeket tartalmaz, amelyek nincsenek a birtokodban.

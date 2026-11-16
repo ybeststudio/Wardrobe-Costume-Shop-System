@@ -1,0 +1,86 @@
+COSTUME_SHOP_BUY	Koupit
+COSTUME_SHOP_BUY_ALL	Koupit všechny sety
+COSTUME_SHOP_BUY_QUESTION	Chceš koupit %s?
+COSTUME_SHOP_BUY_SET_QUESTION	Chceš koupit tyto kostımy?
+COSTUME_SHOP_LIMITED_OFFER	Èasovì omezená nabídka
+COSTUME_SHOP_MOVE	Pøesunout - |Eemoji/key_right_new|e
+COSTUME_SHOP_NOTHING_SELECTED	Nejprve vyber kostım.
+COSTUME_SHOP_NO_BONUS	[ádnı bonus]
+COSTUME_SHOP_REMOVE	Odebrat
+COSTUME_SHOP_RESET	Vynulovat
+COSTUME_SHOP_RESULT_0	Nákup byl úspìšnı.
+COSTUME_SHOP_RESULT_1	Jsi pøíliš daleko od Krejèího kostımù.
+COSTUME_SHOP_RESULT_2	Tento kostım ji není v prodeji.
+COSTUME_SHOP_RESULT_3	Nemáš dost kuponù.
+COSTUME_SHOP_RESULT_4	Nemáš dost místa v inventáøi.
+COSTUME_SHOP_SEARCH	Search...
+COSTUME_SHOP_SHOW_SKILLS	Zobrazit mé schopnosti
+COSTUME_SHOP_TEMP_AVAILABLE	Dostupné od %s do %s
+COSTUME_SHOP_TEMP_DESC	Tento kostım je dostupnı pouze po omezenou dobu a u se nevrátí (nebo jen velmi vzácnì).
+COSTUME_SHOP_TEMP_PERIOD	Platí od %s do %s
+COSTUME_SHOP_TITLE	Prodejna kostımù
+COSTUME_SHOP_TOTAL_PRICE	Cena všech kostımù:
+COSTUME_SHOP_ZOOM	Lupa – |Eemoji/key_wheel|e
+INVENTORY_BUTTON_AUTO_CAPE	Pláš odvahy
+INVENTORY_BUTTON_QUEST_BOOK	Kniha úkolù
+INVENTORY_BUTTON_WARDROBE	Šatník
+INVENTORY_TAB_COSTUMES	Kostımy
+INVENTORY_TAB_EQUIPMENT	Vybavení
+INVENTORY_TAB_PETS	Mazlíci
+TOOLTIP_SHORTCUT_SHOP_SEARCH	Hledat v obchodì
+TOOLTIP_SHORTCUT_SWITCHBOT	Pøejít na Switchbot
+TOOLTIP_SHORTCUT_WIKI	Otevøete Wikipedii
+WARDROBE_ACTIONS_TITLE	Akce
+WARDROBE_APPLY	Pouít
+WARDROBE_BLOCKED	Tato akce nyní není dostupná.
+WARDROBE_CATALOG_COUNT	Katalog: %d
+WARDROBE_CATALOG_UNAVAILABLE	Katalog zatím není dostupnı.
+WARDROBE_CATEGORY	Kategorie %d
+WARDROBE_CLEAR_OUTFIT	Vyprázdnit odìv
+WARDROBE_CLEAR_SEARCH	Vymazat hledání
+WARDROBE_COSTUMES_TITLE	Kostımy
+WARDROBE_COSTUMES_TOOLTIP	Kostımy: %d
+WARDROBE_ERROR	Akci nelze dokonèit. Obnovte stránku.
+WARDROBE_EXP_TOOLTIP	Zkušenosti: %d / %d
+WARDROBE_FAVORITE_SAVE_FAILED	Oblíbené nelze uloit.
+WARDROBE_FULL	V cílovém inventáøi není dost místa.
+WARDROBE_INVALID	Vyberte platnı kostım ze svého inventáøe.
+WARDROBE_INVALID_SELECTION	Zkontrolujte název a vıbìr, pak obnovte stránku.
+WARDROBE_INVENTORY	Inventáø
+WARDROBE_LEVEL_LABEL	Úroveò
+WARDROBE_LEVEL_TOOLTIP	Úroveò: %d
+WARDROBE_LINK_COPIED	Odkaz na odìv byl zkopírován. Pro sdílení jej vlo do chatu.
+WARDROBE_LINK_COPY_FAILED	Odkaz na odìv se nepodaøilo zkopírovat.
+WARDROBE_LINK_OUTFIT	Sdílet odìv
+WARDROBE_LOADING	Naèítání…
+WARDROBE_OUTFITS	Sestavy
+WARDROBE_OUTFIT_HELP_APPLY	Kliknutím na Pouít si vybranou sestavu oblékneš.
+WARDROBE_OUTFIT_HELP_SAVE	Zmìny kostımù i názvu se ukládají automaticky.
+WARDROBE_OUTFIT_HELP_SELECT	Vyber sestavu a uprav její kostımy v šatníku.
+WARDROBE_OUTFIT_NAME	Název outfitu
+WARDROBE_OUTFIT_SLOT	Sestava %d
+WARDROBE_OUTFIT_UNAPPLIED_MARK	!
+WARDROBE_OWNED_ONLY	Jen vlastnìné
+WARDROBE_PROGRESS_LOADING	Naèítání úrovnì sbírky…
+WARDROBE_RANDOM_OUTFIT	Náhodnì
+WARDROBE_REMOVE	Odebrat
+WARDROBE_SEARCH	Hledat
+WARDROBE_SHININGS	Záøe
+WARDROBE_TIMEOUT	ádná odpovìï. Pøed dalším pokusem obnovte stránku.
+WARDROBE_TITLE	Šatník
+WARDROBE_TOOLTIP_TYPE	Kostımy: %s
+WARDROBE_TOOLTIP_TYPE_ACCE	Šerpa
+WARDROBE_TOOLTIP_TYPE_BODY	Kostım
+WARDROBE_TOOLTIP_TYPE_HAIR	Úèes
+WARDROBE_TOOLTIP_TYPE_MOUNT	Jezdecké zvíøe
+WARDROBE_TOOLTIP_TYPE_PET	Mazlíci
+WARDROBE_TOOLTIP_TYPE_SHINING	Záøící
+WARDROBE_TOOLTIP_TYPE_WEAPON	Vzhledy zbraní
+WARDROBE_TYPE_ACCE	Šerpa
+WARDROBE_TYPE_BODY	Tìlo
+WARDROBE_TYPE_HAIR	Úèes
+WARDROBE_TYPE_MOUNT	Dráky
+WARDROBE_TYPE_PET	Domácí mazlíèci
+WARDROBE_TYPE_WEAPON	Zbranì
+WARDROBE_UNAPPLY	Zrušit pouití
+WARDROBE_UNOWNED_OUTFIT	Tento outfit nelze pouít: obsahuje kostımy, které nevlastníš.

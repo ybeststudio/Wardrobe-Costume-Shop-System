@@ -1,0 +1,86 @@
+COSTUME_SHOP_BUY	Kupiæ
+COSTUME_SHOP_BUY_ALL	Kup wszystkie zestawy
+COSTUME_SHOP_BUY_QUESTION	Czy chcesz kupiæ %s?
+COSTUME_SHOP_BUY_SET_QUESTION	Czy chcesz kupiæ te kostiumy?
+COSTUME_SHOP_LIMITED_OFFER	Limitowane Oferty
+COSTUME_SHOP_MOVE	Przenieœ - |Eemoji/key_right_new|e
+COSTUME_SHOP_NOTHING_SELECTED	Najpierw wybierz kostium.
+COSTUME_SHOP_NO_BONUS	[Brak bonusu]
+COSTUME_SHOP_REMOVE	Usun¹æ
+COSTUME_SHOP_RESET	Resetuj
+COSTUME_SHOP_RESULT_0	Zakup udany.
+COSTUME_SHOP_RESULT_1	Jesteœ zbyt daleko od Krawca Kostiumów.
+COSTUME_SHOP_RESULT_2	Ten kostium nie jest ju¿ w sprzeda¿y.
+COSTUME_SHOP_RESULT_3	Nie masz wystarczaj¹co kuponów.
+COSTUME_SHOP_RESULT_4	Brak miejsca w ekwipunku.
+COSTUME_SHOP_SEARCH	Szukaj...
+COSTUME_SHOP_SHOW_SKILLS	Poka¿ moje umiejêtnoœci
+COSTUME_SHOP_TEMP_AVAILABLE	Dostêpne od %s do %s
+COSTUME_SHOP_TEMP_DESC	Ten kostium jest dostêpny tylko przez ograniczony czas i nigdy nie wróci (lub bardzo rzadko)
+COSTUME_SHOP_TEMP_PERIOD	Wa¿ne w okresie %s - %s
+COSTUME_SHOP_TITLE	Sklep z kostiumami
+COSTUME_SHOP_TOTAL_PRICE	Cena wszystkich kostiumów:
+COSTUME_SHOP_ZOOM	Powiêksz - |Eemoji/key_wheel|e
+INVENTORY_BUTTON_AUTO_CAPE	Peleryna Mêstwa
+INVENTORY_BUTTON_QUEST_BOOK	Ksiêga Misji
+INVENTORY_BUTTON_WARDROBE	Garderoba
+INVENTORY_TAB_COSTUMES	Kostiumy
+INVENTORY_TAB_EQUIPMENT	Ekwipunek
+INVENTORY_TAB_PETS	Zwierzaki
+TOOLTIP_SHORTCUT_SHOP_SEARCH	Wyszukaj w sklepie
+TOOLTIP_SHORTCUT_SWITCHBOT	PrzejdŸ do Switchbota
+TOOLTIP_SHORTCUT_WIKI	Otwórz Wikipediê
+WARDROBE_ACTIONS_TITLE	Dzia³ania
+WARDROBE_APPLY	Zastosuj
+WARDROBE_BLOCKED	Ta czynnoœæ jest obecnie niedostêpna.
+WARDROBE_CATALOG_COUNT	Katalog: %d
+WARDROBE_CATALOG_UNAVAILABLE	Katalog nie jest jeszcze dostêpny.
+WARDROBE_CATEGORY	Kategoria %d
+WARDROBE_CLEAR_OUTFIT	Wyczyœæ strój
+WARDROBE_CLEAR_SEARCH	Wyczyœæ wyszukiwanie
+WARDROBE_COSTUMES_TITLE	Kostiumy
+WARDROBE_COSTUMES_TOOLTIP	Kostiumy: %d
+WARDROBE_ERROR	Nie uda³o siê ukoñczyæ czynnoœci. Odœwie¿ stronê.
+WARDROBE_EXP_TOOLTIP	Doœwiadczenie: %d / %d
+WARDROBE_FAVORITE_SAVE_FAILED	Nie uda³o siê zapisaæ ulubionych.
+WARDROBE_FULL	Za ma³o miejsca w docelowym ekwipunku.
+WARDROBE_INVALID	Wybierz prawid³owy kostium z ekwipunku.
+WARDROBE_INVALID_SELECTION	SprawdŸ nazwê i wybór, a nastêpnie odœwie¿.
+WARDROBE_INVENTORY	Ekwipunek
+WARDROBE_LEVEL_LABEL	Poziom
+WARDROBE_LEVEL_TOOLTIP	Poziom: %d
+WARDROBE_LINK_COPIED	Skopiowano link do stroju. Wklej go na czacie, aby go udostêpniæ.
+WARDROBE_LINK_COPY_FAILED	Nie uda³o siê skopiowaæ linku do stroju.
+WARDROBE_LINK_OUTFIT	Udostêpnij strój
+WARDROBE_LOADING	Wczytywanie…
+WARDROBE_OUTFITS	Zestawy
+WARDROBE_OUTFIT_HELP_APPLY	Kliknij Zastosuj, aby za³o¿yæ wybrany strój.
+WARDROBE_OUTFIT_HELP_SAVE	Zmiany kostiumów i nazwy s¹ zapisywane automatycznie.
+WARDROBE_OUTFIT_HELP_SELECT	Wybierz strój, a nastêpnie dobierz jego kostiumy w garderobie.
+WARDROBE_OUTFIT_NAME	Nazwa stroju
+WARDROBE_OUTFIT_SLOT	Zestaw %d
+WARDROBE_OUTFIT_UNAPPLIED_MARK	!
+WARDROBE_OWNED_ONLY	Posiadane
+WARDROBE_PROGRESS_LOADING	Wczytywanie poziomu kolekcji…
+WARDROBE_RANDOM_OUTFIT	Losowo
+WARDROBE_REMOVE	Usun¹æ
+WARDROBE_SEARCH	Szukaj
+WARDROBE_SHININGS	Blaski
+WARDROBE_TIMEOUT	Brak odpowiedzi. Odœwie¿ przed ponown¹ prób¹.
+WARDROBE_TITLE	Garderoba
+WARDROBE_TOOLTIP_TYPE	Kostiumy: %s
+WARDROBE_TOOLTIP_TYPE_ACCE	Szarfa
+WARDROBE_TOOLTIP_TYPE_BODY	Kostium
+WARDROBE_TOOLTIP_TYPE_HAIR	Fryzura
+WARDROBE_TOOLTIP_TYPE_MOUNT	Wierzchowiec
+WARDROBE_TOOLTIP_TYPE_PET	Zwierzaki
+WARDROBE_TOOLTIP_TYPE_SHINING	Œwiecenie
+WARDROBE_TOOLTIP_TYPE_WEAPON	Wizerunki broni
+WARDROBE_TYPE_ACCE	Szarfa
+WARDROBE_TYPE_BODY	Strój
+WARDROBE_TYPE_HAIR	Fryzura
+WARDROBE_TYPE_MOUNT	Wierzchowce
+WARDROBE_TYPE_PET	Zwierzêta
+WARDROBE_TYPE_WEAPON	Broñ
+WARDROBE_UNAPPLY	Zdejmij
+WARDROBE_UNOWNED_OUTFIT	Nie mo¿na zastosowaæ tego stroju: zawiera kostiumy, których nie posiadasz.

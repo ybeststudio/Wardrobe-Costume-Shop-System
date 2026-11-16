@@ -1,0 +1,2 @@
+UI_ACCEPT	Annehmen
+UI_CANCEL	Abbruch

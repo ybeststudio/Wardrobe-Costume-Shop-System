@@ -1,0 +1,86 @@
+COSTUME_SHOP_BUY	Kaufen
+COSTUME_SHOP_BUY_ALL	Alle Sets kaufen
+COSTUME_SHOP_BUY_QUESTION	Möchtest du %s kaufen?
+COSTUME_SHOP_BUY_SET_QUESTION	Möchtest du diese Kostüme kaufen?
+COSTUME_SHOP_LIMITED_OFFER	Zeitlich begrenztes Angebot
+COSTUME_SHOP_MOVE	Bewegen - |Eemoji/key_right_new|e
+COSTUME_SHOP_NOTHING_SELECTED	Wähle zuerst ein Kostüm aus.
+COSTUME_SHOP_NO_BONUS	[Kein Bonus]
+COSTUME_SHOP_REMOVE	Entfernen
+COSTUME_SHOP_RESET	Zurücksetzen
+COSTUME_SHOP_RESULT_0	Kauf erfolgreich.
+COSTUME_SHOP_RESULT_1	Du bist zu weit vom Kostümschneider entfernt.
+COSTUME_SHOP_RESULT_2	Dieses Kostüm wird nicht mehr verkauft.
+COSTUME_SHOP_RESULT_3	Du hast nicht genug Gutscheine.
+COSTUME_SHOP_RESULT_4	Dein Inventar hat nicht genug Platz.
+COSTUME_SHOP_SEARCH	Suchen...
+COSTUME_SHOP_SHOW_SKILLS	Meine Fertigkeiten
+COSTUME_SHOP_TEMP_AVAILABLE	Verfügbar von %s bis %s
+COSTUME_SHOP_TEMP_DESC	Dieses Kostüm ist nur zeitlich begrenzt verfügbar und kehrt nie oder nur sehr selten zurück.
+COSTUME_SHOP_TEMP_PERIOD	Gültig von %s bis %s
+COSTUME_SHOP_TITLE	Kostüm Shop
+COSTUME_SHOP_TOTAL_PRICE	Preis aller Kostüme:
+COSTUME_SHOP_ZOOM	Zoom - |Eemoji/key_wheel|e
+INVENTORY_BUTTON_AUTO_CAPE	Tapferkeitsumhang
+INVENTORY_BUTTON_QUEST_BOOK	Missionsbücher
+INVENTORY_BUTTON_WARDROBE	Garderobe
+INVENTORY_TAB_COSTUMES	Kostüme
+INVENTORY_TAB_EQUIPMENT	Ausrüstung
+INVENTORY_TAB_PETS	Pets
+TOOLTIP_SHORTCUT_SHOP_SEARCH	Shop durchsuchen
+TOOLTIP_SHORTCUT_SWITCHBOT	Zu Switchbot verschieben
+TOOLTIP_SHORTCUT_WIKI	Wikipedia öffnen
+WARDROBE_ACTIONS_TITLE	Aktionen
+WARDROBE_APPLY	Anwenden
+WARDROBE_BLOCKED	Diese Aktion ist momentan nicht verfügbar.
+WARDROBE_CATALOG_COUNT	Katalog: %d
+WARDROBE_CATALOG_UNAVAILABLE	Der Katalog ist noch nicht verfügbar.
+WARDROBE_CATEGORY	Kategorie %d
+WARDROBE_CLEAR_OUTFIT	Outfit leeren
+WARDROBE_CLEAR_SEARCH	Suche löschen
+WARDROBE_COSTUMES_TITLE	Kostüme
+WARDROBE_COSTUMES_TOOLTIP	Kostüme: %d
+WARDROBE_ERROR	Aktion fehlgeschlagen. Bitte aktualisieren.
+WARDROBE_EXP_TOOLTIP	Erfahrung: %d / %d
+WARDROBE_FAVORITE_SAVE_FAILED	Favoriten konnten nicht gespeichert werden.
+WARDROBE_FULL	Am Ziel ist nicht genug Platz.
+WARDROBE_INVALID	Wähle ein gültiges Kostüm aus deinem Inventar.
+WARDROBE_INVALID_SELECTION	Name und Auswahl prüfen, dann aktualisieren.
+WARDROBE_INVENTORY	Inventar
+WARDROBE_LEVEL_LABEL	Stufe
+WARDROBE_LEVEL_TOOLTIP	Stufe: %d
+WARDROBE_LINK_COPIED	Outfit-Link kopiert. Zum Teilen im Chat einfügen.
+WARDROBE_LINK_COPY_FAILED	Der Outfit-Link konnte nicht kopiert werden.
+WARDROBE_LINK_OUTFIT	Outfit teilen
+WARDROBE_LOADING	Wird geladen…
+WARDROBE_OUTFITS	Outfits
+WARDROBE_OUTFIT_HELP_APPLY	Klicke auf Anwenden, um das gewählte Outfit anzulegen.
+WARDROBE_OUTFIT_HELP_SAVE	Kostüm- und Namensänderungen werden automatisch gespeichert.
+WARDROBE_OUTFIT_HELP_SELECT	Wähle ein Outfit und ändere seine Kostüme in der Garderobe.
+WARDROBE_OUTFIT_NAME	Outfitname
+WARDROBE_OUTFIT_SLOT	Outfit %d
+WARDROBE_OUTFIT_UNAPPLIED_MARK	!
+WARDROBE_OWNED_ONLY	Nur eigene
+WARDROBE_PROGRESS_LOADING	Sammlungsstufe wird geladen…
+WARDROBE_RANDOM_OUTFIT	Zufällig
+WARDROBE_REMOVE	Entfernen
+WARDROBE_SEARCH	Suchen
+WARDROBE_SHININGS	Glanzeffekte
+WARDROBE_TIMEOUT	Keine Antwort. Vor erneutem Versuch bitte aktualisieren.
+WARDROBE_TITLE	Garderobe
+WARDROBE_TOOLTIP_TYPE	Kostüme: %s
+WARDROBE_TOOLTIP_TYPE_ACCE	Schulterband
+WARDROBE_TOOLTIP_TYPE_BODY	Kostüm
+WARDROBE_TOOLTIP_TYPE_HAIR	Frisur
+WARDROBE_TOOLTIP_TYPE_MOUNT	Mount
+WARDROBE_TOOLTIP_TYPE_PET	Pets
+WARDROBE_TOOLTIP_TYPE_SHINING	Glanz
+WARDROBE_TOOLTIP_TYPE_WEAPON	Waffenskins
+WARDROBE_TYPE_ACCE	Schulterband
+WARDROBE_TYPE_BODY	Körper
+WARDROBE_TYPE_HAIR	Frisur
+WARDROBE_TYPE_MOUNT	Reittiere
+WARDROBE_TYPE_PET	Pets
+WARDROBE_TYPE_WEAPON	Waffen
+WARDROBE_UNAPPLY	Ablegen
+WARDROBE_UNOWNED_OUTFIT	Dieses Outfit kann nicht angewendet werden: Es enthält Kostüme, die du nicht besitzt.

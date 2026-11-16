@@ -1,0 +1,86 @@
+COSTUME_SHOP_BUY	Cumpãra
+COSTUME_SHOP_BUY_ALL	Cumpãrã toate seturile
+COSTUME_SHOP_BUY_QUESTION	Vrei sã cumperi %s?
+COSTUME_SHOP_BUY_SET_QUESTION	Vrei sã cumperi aceste costume?
+COSTUME_SHOP_LIMITED_OFFER	Oferta pe timp limitat
+COSTUME_SHOP_MOVE	Mutare - |Eemoji/key_right_new|e
+COSTUME_SHOP_NOTHING_SELECTED	Selecteazã mai întâi un costum.
+COSTUME_SHOP_NO_BONUS	[Fãrã bonus]
+COSTUME_SHOP_REMOVE	Elimina
+COSTUME_SHOP_RESET	Reseteazã
+COSTUME_SHOP_RESULT_0	Cumpãrare reuºitã.
+COSTUME_SHOP_RESULT_1	Eºti prea departe de Croitorul de Costume.
+COSTUME_SHOP_RESULT_2	Acest costum nu mai este în vânzare.
+COSTUME_SHOP_RESULT_3	Nu ai suficiente cupoane.
+COSTUME_SHOP_RESULT_4	Nu ai suficient loc în inventar.
+COSTUME_SHOP_SEARCH	Cauta...
+COSTUME_SHOP_SHOW_SKILLS	Aratã abilitãtile mele
+COSTUME_SHOP_TEMP_AVAILABLE	Disponibil de la %s pânã la %s
+COSTUME_SHOP_TEMP_DESC	Acest costum este disponibil doar pentru o perioada limitata si nu va mai reveni, sau va reveni foarte rar
+COSTUME_SHOP_TEMP_PERIOD	Valabil între %s - %s
+COSTUME_SHOP_TITLE	Magazin de costume
+COSTUME_SHOP_TOTAL_PRICE	Pretul tuturor costumelor:
+COSTUME_SHOP_ZOOM	Zoom - |Eemoji/key_wheel|e
+INVENTORY_BUTTON_AUTO_CAPE	Mantia Curajului
+INVENTORY_BUTTON_QUEST_BOOK	Cartea misiunii
+INVENTORY_BUTTON_WARDROBE	Garderobã
+INVENTORY_TAB_COSTUMES	Costume
+INVENTORY_TAB_EQUIPMENT	Echipament
+INVENTORY_TAB_PETS	Insotitori
+TOOLTIP_SHORTCUT_SHOP_SEARCH	Cautã în magazin
+TOOLTIP_SHORTCUT_SWITCHBOT	Treceþi la Switchbot
+TOOLTIP_SHORTCUT_WIKI	Deschide Wikipedia
+WARDROBE_ACTIONS_TITLE	Actiuni
+WARDROBE_APPLY	Aplicã
+WARDROBE_BLOCKED	Aceastã actiune nu este disponibilã momentan.
+WARDROBE_CATALOG_COUNT	Catalog: %d
+WARDROBE_CATALOG_UNAVAILABLE	Catalogul nu este încã disponibil.
+WARDROBE_CATEGORY	Categoria %d
+WARDROBE_CLEAR_OUTFIT	Goleste tinuta
+WARDROBE_CLEAR_SEARCH	Sterge cãutarea
+WARDROBE_COSTUMES_TITLE	Costume
+WARDROBE_COSTUMES_TOOLTIP	Costume: %d
+WARDROBE_ERROR	Actiunea nu a putut fi finalizatã. Actualizeazã pagina.
+WARDROBE_EXP_TOOLTIP	Experientã: %d / %d
+WARDROBE_FAVORITE_SAVE_FAILED	Favoritele nu au putut fi salvate.
+WARDROBE_FULL	Nu este suficient spatiu în inventarul de destinatie.
+WARDROBE_INVALID	Selecteazã un costum valid din inventar.
+WARDROBE_INVALID_SELECTION	Verificã numele si selectia, apoi actualizeazã.
+WARDROBE_INVENTORY	Inventar
+WARDROBE_LEVEL_LABEL	Nivel
+WARDROBE_LEVEL_TOOLTIP	Nivel: %d
+WARDROBE_LINK_COPIED	Linkul tinutei a fost copiat. Lipeste-l în chat pentru a-l distribui.
+WARDROBE_LINK_COPY_FAILED	Linkul tinutei nu a putut fi copiat.
+WARDROBE_LINK_OUTFIT	Distribuie tinuta
+WARDROBE_LOADING	Se încarcã…
+WARDROBE_OUTFITS	Tinute
+WARDROBE_OUTFIT_HELP_APPLY	Apasã Aplicã pentru a echipa tinuta selectatã.
+WARDROBE_OUTFIT_HELP_SAVE	Modificãrile costumelor si ale numelui se salveazã automat.
+WARDROBE_OUTFIT_HELP_SELECT	Selecteazã o tinutã, apoi alege-i costumele din Garderobã.
+WARDROBE_OUTFIT_NAME	Numele tinutei
+WARDROBE_OUTFIT_SLOT	Tinutã %d
+WARDROBE_OUTFIT_UNAPPLIED_MARK	!
+WARDROBE_OWNED_ONLY	Doar detinute
+WARDROBE_PROGRESS_LOADING	Se încarcã nivelul colectiei…
+WARDROBE_RANDOM_OUTFIT	Aleatoriu
+WARDROBE_REMOVE	Elimina
+WARDROBE_SEARCH	Cautã
+WARDROBE_SHININGS	Strãluciri
+WARDROBE_TIMEOUT	Niciun rãspuns. Actualizeazã înainte de a reîncerca.
+WARDROBE_TITLE	Garderobã
+WARDROBE_TOOLTIP_TYPE	Costume: %s
+WARDROBE_TOOLTIP_TYPE_ACCE	Esarfã
+WARDROBE_TOOLTIP_TYPE_BODY	Costum
+WARDROBE_TOOLTIP_TYPE_HAIR	Coafura
+WARDROBE_TOOLTIP_TYPE_MOUNT	Mounti
+WARDROBE_TOOLTIP_TYPE_PET	Insotitori
+WARDROBE_TOOLTIP_TYPE_SHINING	Stralucitor
+WARDROBE_TOOLTIP_TYPE_WEAPON	Accesorii Arme
+WARDROBE_TYPE_ACCE	Esarfã
+WARDROBE_TYPE_BODY	Corp
+WARDROBE_TYPE_HAIR	Coafurã
+WARDROBE_TYPE_MOUNT	Monturi
+WARDROBE_TYPE_PET	Animale de companie
+WARDROBE_TYPE_WEAPON	Arme
+WARDROBE_UNAPPLY	Dezactiveazã
+WARDROBE_UNOWNED_OUTFIT	Nu poti aplica aceastã tinutã: contine costume pe care nu le detii.
